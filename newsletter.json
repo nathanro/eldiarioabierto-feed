@@ -1,0 +1,294 @@
+{
+ "newsletter": "El Diario Abierto",
+ "archivo": "https://eldiarioabierto.sites.tab.bot/newsletter/",
+ "ediciones": [
+  {
+   "numero": 10,
+   "fecha": "2026-10-15",
+   "titulo": {
+    "es": "IA de punta por centavos: un modelo abierto que cuesta 60 veces menos",
+    "en": "Top-tier AI for pennies: an open model that costs 60x less"
+   },
+   "resumen": {
+    "es": "Cinco personas lanzaron Ultramarine 1 Flash, un modelo abierto para trabajo de oficina que, según sus pruebas, compite con los grandes.",
+    "en": "A five-person team launched Ultramarine 1 Flash, an open-source model for office work that, by its own tests, competes with the big closed models."
+   },
+   "temas": {
+    "es": [
+     "IA de punta por centavos",
+     "160 sitios de nicho",
+     "Sonido para tus videos",
+     "Agentes en tu nube",
+     "Una PC en la nube por US$20",
+     "Videos editados por agentes"
+    ],
+    "en": [
+     "Top-tier AI for pennies",
+     "160 niche sites",
+     "Sound for your videos",
+     "Agents in your own cloud",
+     "A $20 cloud computer",
+     "Videos edited by agents"
+    ]
+   },
+   "fecha_texto": {
+    "es": "Jueves 15 de octubre de 2026",
+    "en": "Thursday, October 15, 2026"
+   },
+   "es": "1nWCd-QStviV_gZvXzNSCtJMXLgr30Gdd",
+   "en": "1uGNckvEdM_SWDJjF6PwkJ6S8gqNIr6s4"
+  },
+  {
+   "numero": 9,
+   "fecha": "2026-10-14",
+   "titulo": {
+    "es": "IA en tu oficina por US$249: modelos abiertos sin nube y sin pagar suscripciones",
+    "en": "AI in your office for $249: open models with no cloud and no subscriptions"
+   },
+   "resumen": {
+    "es": "Hoy la IA corre en una caja de US$249, los agentes tienen su propia base de datos, su propio equipo y su propia memoria, un solo agente coordina a muchos y otro hace el video de tu producto.",
+    "en": "Today AI runs on a $249 box, agents get their own database, their own team and their own memory, one agent coordinates many and another makes your product video."
+   },
+   "temas": {
+    "es": [
+     "IA local por US$249",
+     "Bases de datos desechables",
+     "Tu equipo de agentes",
+     "Memoria para agentes",
+     "Un agente que coordina",
+     "Videos promo con agentes"
+    ],
+    "en": [
+     "Local AI for $249",
+     "Throwaway databases",
+     "Your team of agents",
+     "Memory for agents",
+     "One agent that coordinates",
+     "Promo videos with agents"
+    ]
+   },
+   "fecha_texto": {
+    "es": "Miércoles 14 de octubre de 2026",
+    "en": "Wednesday, October 14, 2026"
+   },
+   "es": "1lg7YbTbNHfiM9XzuuZIghzbYS71onio0",
+   "en": "1puqs3yxzeIQ8uE20-MaHJR4b8gJsc4EE"
+  },
+  {
+   "numero": 8,
+   "fecha": "2026-10-13",
+   "titulo": {
+    "es": "OpenAI lanza Decisions API: la IA que clasifica y enruta tus mensajes en tiempo real",
+    "en": "OpenAI launches the Decisions API: AI that sorts and routes your messages in real time"
+   },
+   "resumen": {
+    "es": "Hoy la IA decide en tiempo real, escribe lo que le dictas, contesta con gráficas en vez de párrafos, trabaja en el chat de tu equipo y arma apps sin salir de la conversación.",
+    "en": "Today AI decides in real time, types what you dictate, answers with charts instead of paragraphs, works in your team chat and builds apps without leaving the conversation."
+   },
+   "temas": {
+    "es": [
+     "La IA que decide al instante",
+     "Dictado por voz gratis",
+     "Respuestas con gráficas",
+     "Tu equipo y tus agentes",
+     "Diseño con agentes",
+     "Tu app desde el chat"
+    ],
+    "en": [
+     "AI that decides instantly",
+     "Free voice dictation",
+     "Answers with charts",
+     "Your team and your agents",
+     "Design with agents",
+     "Your app from the chat"
+    ]
+   },
+   "fecha_texto": {
+    "es": "Martes 13 de octubre de 2026",
+    "en": "Tuesday, October 13, 2026"
+   },
+   "es": "16Xgk9nYA6VKqeZvVMQJkiKXJCcdCcC7Z",
+   "en": "1gi85z4sR9vaYZnLLlSvSmMy37jvthbJN"
+  },
+  {
+   "numero": 7,
+   "fecha": "2026-10-12",
+   "titulo": {
+    "es": "Adiós a las suscripciones: Monid conecta a tu agente con miles de herramientas y cobra por uso",
+    "en": "Goodbye, subscriptions: Monid plugs your agent into thousands of tools and charges per use"
+   },
+   "resumen": {
+    "es": "Los agentes ya no solo contestan: pagan sus herramientas por uso, navegan, buscan clientes, te hablan en voz alta y te siguen al celular.",
+    "en": "Agents don't just answer anymore: they pay for their tools per use, browse, find customers, talk to you out loud and follow you to your phone."
+   },
+   "temas": {
+    "es": [
+     "Agentes sin suscripciones",
+     "Un navegador para bots",
+     "Bots que buscan clientes",
+     "Agentes que te hablan",
+     "Búsqueda en milisegundos",
+     "Tu agente en el celular"
+    ],
+    "en": [
+     "Agents without subscriptions",
+     "A browser for bots",
+     "Bots that find customers",
+     "Agents that talk to you",
+     "Search in milliseconds",
+     "Your agent on your phone"
+    ]
+   },
+   "fecha_texto": {
+    "es": "Lunes 12 de octubre de 2026",
+    "en": "Monday, October 12, 2026"
+   },
+   "es": "1UPSv42grpf0bFWYnxPKQMlqCVf5MMQLQ",
+   "en": "1TE7UijqA4r9BNioMDyiaPsZT9CnNUtve"
+  },
+  {
+   "numero": 6,
+   "fecha": "2026-10-11",
+   "titulo": {
+    "es": "Una IA que no escribe: decide. Drex 1.5 ya es abierta y corre en tu propio equipo",
+    "en": "An AI that doesn't write, it decides. Drex 1.5 is now open and runs on your own machine"
+   },
+   "resumen": {
+    "es": "La IA se hizo más chica y más cercana: un modelo que decide en vez de escribir, otro de 54 GB que cabe en 8, un motor que la hace volar en una Mac y notas de junta sin internet.",
+    "en": "AI got smaller and closer: a model that decides instead of writing, a 54 GB model that fits in 8, an engine that makes it fly on a Mac and meeting notes with no internet."
+   },
+   "temas": {
+    "es": [
+     "Una IA que decide",
+     "Chat con IA desde la terminal",
+     "Agentes que se encuentran",
+     "IA local 4 veces más rápida",
+     "Un modelo que cabe en 8 GB",
+     "Notas de junta sin nube"
+    ],
+    "en": [
+     "An AI that decides",
+     "AI chat from the terminal",
+     "Agents that find each other",
+     "Local AI, 4x faster",
+     "A model that fits in 8 GB",
+     "Meeting notes, no cloud"
+    ]
+   },
+   "fecha_texto": {
+    "es": "Domingo 11 de octubre de 2026",
+    "en": "Sunday, October 11, 2026"
+   },
+   "es": "1OedAtqsis1wbuYu3MfoMVTItF0c6ayMd",
+   "en": "1ygwHnEkgs49kmOh_8qjz6JMoQbN4fr84"
+  },
+  {
+   "numero": 5,
+   "fecha": "2026-10-10",
+   "titulo": {
+    "es": "ChatGPT ya toma las notas de tu junta y te deja listo el correo de seguimiento",
+    "en": "ChatGPT now takes your meeting notes and leaves the follow-up email ready"
+   },
+   "resumen": {
+    "es": "Esta semana la IA se metió a la oficina: toma notas en tus juntas, arma presentaciones, vigila tu marca en X y empieza a entender órdenes de voz sin internet. También te cuento cómo usar créditos de IA que quizá ya pagaste y por qué no…",
+    "en": "This week AI moved into the office: it takes notes in your meetings, builds slide decks, watches your brand on X and is starting to understand voice commands offline. I also show you how to use AI credits you may have already paid for,…"
+   },
+   "temas": {
+    "es": [
+     "Notas de junta con IA",
+     "Grok Bot hace presentaciones",
+     "Tres bots para tu marca",
+     "Voz a acción en 43 MB",
+     "Un filtro para tu chatbot",
+     "Créditos de IA guardados"
+    ],
+    "en": [
+     "AI meeting notes",
+     "Grok Bot builds slides",
+     "Three bots for your brand",
+     "Voice to action in 43 MB",
+     "A filter for your chatbot",
+     "AI credits you may have"
+    ]
+   },
+   "fecha_texto": {
+    "es": "Sábado 10 de octubre de 2026",
+    "en": "Saturday, October 10, 2026"
+   },
+   "es": "1vyPS1DROfwaA6Z6Osmc3i-w39pnpMIj2",
+   "en": "1nKEKT9oYsdeM1Y631jGmFfPscd-itjLm"
+  },
+  {
+   "numero": 4,
+   "fecha": "2026-10-09",
+   "titulo": {
+    "es": "Tu propio noticiero diario, con tu cara y tu voz: Grok Bot y HeyGen lo arman solos",
+    "en": "Your own daily news show, starring you: Grok Bot and HeyGen put it together"
+   },
+   "resumen": {
+    "es": "Hoy la IA aprende a hacer video y a vigilar por ti: un noticiero diario con tu cara, un bot que busca en X y respuestas interactivas en ChatGPT. Y una advertencia de US$10,811 sobre lo que cuesta dejar solo a un programa que cobra por uso.",
+    "en": "Today AI learns to make video and keep watch for you: a daily news show with your face, a bot that searches X and interactive answers in ChatGPT. Plus a $10,811 warning about what it costs to leave a pay-per-use program running…"
+   },
+   "temas": {
+    "es": [
+     "Tu noticiero con avatar",
+     "Grok Bot vigila X",
+     "Clientes desde X",
+     "ChatGPT interactivo",
+     "Una voz en 9 MB",
+     "Traductor sin internet"
+    ],
+    "en": [
+     "Your avatar news show",
+     "Grok Bot watches X",
+     "Customers from X",
+     "Interactive ChatGPT",
+     "A voice in 9 MB",
+     "Offline translator"
+    ]
+   },
+   "fecha_texto": {
+    "es": "Viernes 9 de octubre de 2026",
+    "en": "Friday, October 9, 2026"
+   },
+   "es": "1Vbtxk0VHHVPutUsxJP--PM72QNXZcvkY",
+   "en": "1c4sm0uEqw3Y8XulCUMuxii8A4CMYkM-U"
+  },
+  {
+   "numero": 3,
+   "fecha": "2026-10-08",
+   "titulo": {
+    "es": "Ya puedes mandarle trabajo a tu bot desde cualquier post de X: solo escribe @bot",
+    "en": "You can now hand work to your bot from any post on X: just type @bot"
+   },
+   "resumen": {
+    "es": "Hoy los agentes salen del chat: ya los llamas desde cualquier post de X, y Microsoft quiere que trabajen en tu PC. Te contamos qué sí te sirve y qué todavía no vale lo que cuesta.",
+    "en": "Today agents step out of the chat window: you can call them from any post on X, and Microsoft wants them working on your PC. We tell you what actually works for you and what isn't worth the price yet."
+   },
+   "temas": {
+    "es": [
+     "Trabajo a tu bot desde X",
+     "Un equipo de dos, triplicado",
+     "Tu PC y los agentes",
+     "IA en casa, sin nube",
+     "Buscar en fotos y audio",
+     "Dinero de EE. UU."
+    ],
+    "en": [
+     "Hand work to your bot from X",
+     "A team of two, tripled",
+     "Your PC and agents",
+     "Home AI, no cloud",
+     "Search photos and audio",
+     "US money, no equity"
+    ]
+   },
+   "fecha_texto": {
+    "es": "Jueves 8 de octubre de 2026",
+    "en": "Thursday, October 8, 2026"
+   },
+   "es": "1ZaAUolVGCwUXdktUQiogpdEkXHja4EF_",
+   "en": "1Mnzn3PIe1P6-d9JlJ9Ghw0bnqKqBHuVo"
+  }
+ ]
+}
