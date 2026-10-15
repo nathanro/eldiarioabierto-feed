@@ -22,5 +22,10 @@ for n in sorted(set(es)|set(en),reverse=True):
    "es":e.get("id"),"en":g.get("id")})
   pu={k:v for k,v in (("es",e.get("pdf")),("en",g.get("pdf"))) if v}
   if pu: eds[-1]["pdf_url"]=pu
+import os
+ov=json.load(open("overrides.json")) if os.path.exists("overrides.json") else {}
+for x in eds:
+  for k,v in ov.get(str(x["numero"]),{}).items():
+    if not x.get(k): x[k]=v
 json.dump({"newsletter":"El Diario Abierto","archivo":B,"ediciones":eds},open("newsletter.json","w",encoding="utf-8"),ensure_ascii=False,indent=1)
 print(len(eds),[ (x["numero"],x["fecha"],x["es"],x["en"]) for x in eds])
