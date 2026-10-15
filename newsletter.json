@@ -289,6 +289,81 @@
    },
    "es": "1ZaAUolVGCwUXdktUQiogpdEkXHja4EF_",
    "en": "1Mnzn3PIe1P6-d9JlJ9Ghw0bnqKqBHuVo"
+  },
+  {
+   "numero": 2,
+   "fecha": "2026-10-07",
+   "titulo": {
+    "es": "Seis trampas legales que pueden costarle caro a tu sitio o app antes de la primera venta",
+    "en": "Six legal traps that can cost your site or app dearly before its first sale"
+   },
+   "resumen": {
+    "es": "Hoy, dos temas: la letra chica legal que le puede salir cara a cualquier negocio que vende en línea, y la fiebre de asistentes de IA, con lo que sí te sirve de ella.",
+    "en": "Two topics today: the legal fine print that can cost any online business dearly, and the AI assistant gold rush, with the parts that actually work for you."
+   },
+   "temas": {
+    "es": [
+     "6 multas que evitas hoy",
+     "Que la IA te recomiende",
+     "La fiebre de asistentes",
+     "El chat ya no basta",
+     "Una bandeja para tus agentes",
+     "Agentes con correo propio"
+    ],
+    "en": [
+     "6 fines to dodge today",
+     "Get AI to recommend you",
+     "The assistant gold rush",
+     "Chat isn't the moat",
+     "One inbox for your agents",
+     "Agents get their own email"
+    ]
+   },
+   "fecha_texto": {
+    "es": "Miércoles 7 de octubre de 2026",
+    "en": "Wednesday, October 7, 2026"
+   },
+   "es": null,
+   "en": "1zQZbURZ1mTHM5AYFhu96_V9CjJs6i47o",
+   "pdf_url": {
+    "es": "https://eldiarioabierto.sites.tab.bot/newsletter-002-es.pdf"
+   }
+  },
+  {
+   "numero": 1,
+   "fecha": "2026-10-06",
+   "titulo": {
+    "es": "Un asistente de código abierto ya compra, reserva y llena formularios desde iMessage",
+    "en": "An open-source assistant now buys, books and fills out forms from iMessage"
+   },
+   "resumen": {
+    "es": "OpenInstinct es gratis, se instala en tu propia cuenta y pide permiso antes de gastar. Para una PyME, lo valioso no es la app: es la forma de trabajar que deja ver.",
+    "en": "OpenInstinct is free, installs in your own account and asks before it spends. For a small business, the value isn't the app. It's the way of working it shows."
+   },
+   "temas": {
+    "es": [
+     "Un agente que compra",
+     "IA que maneja tu iPhone",
+     "Tu equipo de bots, gratis",
+     "Modelos abiertos gigantes",
+     "IA grande en tu PC",
+     "Agentes que se portan mal"
+    ],
+    "en": [
+     "An agent that shops",
+     "AI that runs your iPhone",
+     "Your own bot team, free",
+     "Two giant open models",
+     "Big AI on your PC",
+     "Agents behaving badly"
+    ]
+   },
+   "fecha_texto": {
+    "es": "Martes 6 de octubre de 2026",
+    "en": "Tuesday, October 6, 2026"
+   },
+   "es": "1gi8eXpZ_7gEIGUN1oJ1vZ9ZdVMkKbLMN",
+   "en": "1s3OUtGDnKGZ3-w3U-3Nx0kKWPbRBMUeT"
   }
  ]
 }
